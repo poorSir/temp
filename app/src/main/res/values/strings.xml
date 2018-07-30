@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temp</string>
+    <string name="error_unknow">未知错误</string>
+    <string name="error_socket_timeout">网络连接超时</string>
+</resources>
